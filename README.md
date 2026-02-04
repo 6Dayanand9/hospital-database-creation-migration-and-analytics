@@ -230,17 +230,6 @@ Procedures:
 * Healthcare analytics projects
 * SQL portfolio project for **Data Analyst / Data Engineer / Backend roles**
 
----
-
-If you want, I can also:
-
-* Add **ER diagram**
-* Optimize queries
-* Convert this into **GitHub-ready format**
-* Write **project explanation for interviews**
-
-Just say the word 👌
-
 
 ## **6. Disconnected Reporting**
 
