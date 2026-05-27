@@ -228,7 +228,6 @@ Procedures:
 
 * Hospital administration systems
 * Healthcare analytics projects
-* SQL portfolio project for **Data Analyst / Data Engineer / Backend roles**
 
 
 ## **6. Disconnected Reporting**
